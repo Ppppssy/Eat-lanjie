@@ -192,6 +192,7 @@ body {
 }
 
 .bad {
+    background-size: auto 100%;
     background-image: url(./image/Clickerr.png);
     -webkit-animation: flash .2s 3;
     animation: flash .2s 3;
