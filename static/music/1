@@ -12,8 +12,8 @@ function gameInit() {
         id: "end"
     });
     createjs.Sound.registerSound({
-        src: "res/tap.mp3",
-        src: "./static/music/tap.mp3",
+        src: "res/tap.m4a",
+        src: "./static/music/tap.m4a",
         id: "tap"
     });
     gameRestart();
