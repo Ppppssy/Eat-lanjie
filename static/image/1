@@ -12,7 +12,7 @@
 .tt5 {
     background-size: auto 86%;
     background-image: url(./image/03.png);
-    background-image: url(./image/AfterClicking.png);
+    background-image: url(./image/AfterClick.png);
 }
 
 .bl {
